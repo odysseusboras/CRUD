@@ -1,0 +1,15 @@
+@import 'ag-grid-community/styles/ag-grid.css';
+@import 'ag-grid-community/styles/ag-theme-material.css';
+@import 'react-notifications/lib/notifications.css';
+
+.App {
+  text-align: center;
+}
+
+.tabs {
+  background-color: #F8F5F5;
+}
+
+.tabPanel {
+  padding: 20px;
+}
